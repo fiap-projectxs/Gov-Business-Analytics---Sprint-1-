@@ -22,10 +22,10 @@
 
 ## *Entregáveis:*
 
-* ***Relatório de governança:*** [*PDF*](./Relatorio_Governanca_Raly%282%29.pdf) *|* [*Word editável*](./Relatorio_Governanca_Raly.docx)*. Inclui matriz de permissões, matriz RACI, inventário de dados e bases legais, cadeia D-I-C-I, metadados de auditoria, critérios de confirmação humana, limites da IA, integração com as disciplinas e roteiro de interação governada.*
-* ***Apresentação da Sprint 1:*** [*PowerPoint*](./Governanca_Raly_Sprint1%281%29.pptx)*.*
+* ***Relatório de governança:*** [*PDF*] *|* [*Word editável*]*. Inclui matriz de permissões, matriz RACI, inventário de dados e bases legais, cadeia D-I-C-I, metadados de auditoria, critérios de confirmação humana, limites da IA, integração com as disciplinas e roteiro de interação governada.*
+* ***Apresentação da Sprint 1:*** [*PowerPoint*]*.*
 
-## 
+##  Tudo anexado no repositorio:
 
 ## 
 
