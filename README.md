@@ -40,17 +40,16 @@
 
 
 
+## *Obs:* 
 
 
-
+*Esses papeis são fundamentados em uma situação hipotetica , porém não substiutuidos pela organização real da  MOTIVA.*
 
 
 ## *Papéis de governança do grupo*
 
 * ***Rodrigo Wolkoff Giorgi:** Data Owner, DPO e AI Ethics Officer.*
-*
-*
-*  ##Obs: esses papeis são fundamentados em uma situação hipotetica , porem não substiutuidos pela organização real da  MOTIVA!##
+
 * ***Carlos Mamede Eduardo:** Data Steward e Data Custodian.*
 
 *Essa distribuição representa a organização acadêmica do grupo e não substitui designações formais da Motiva.*
