@@ -39,6 +39,5 @@
 
 * ***Carlos Mamede Eduardo:** Data Steward e Data Custodian.*
 
-*Essa distribuição representa a organização acadêmica do grupo e não substitui designações formais da Motiva.*
 
 
